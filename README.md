@@ -66,7 +66,7 @@
 <!-- https://icons8.com -->
 <div align="center">
   <a href="https://tiendungjr123.github.io/portfolio/" target="blank">
-    <img width="90" height="90" src="images/logo-tiendungjr123-transparent-bg-192x192.png" alt="tiendungjr123-blog" />
+    <img width="90" height="90" src="images/logo-trungquandev-transparent-bg-192x192.png" alt="tiendungjr123-blog" />
   </a>
   <a href="https://www.facebook.com/profile.php?id=100011184602233" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="tiendungjr123-facebook" />
